@@ -2,7 +2,7 @@
 package main
 
 import "fmt"
-
+// изменения в репозиторий
 func main() {
 	arr := [5]int{5, 4, 3, 2, 1}
 	for i := 0; i < (len(arr) - 1); i++ {
